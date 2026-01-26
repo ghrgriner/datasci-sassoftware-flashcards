@@ -2,7 +2,7 @@
 
 SAS®, SAS/STAT®, and Viya® are registered trademarks of SAS Institute Inc.
 SAS Institute Inc also lists "SAS/GRAPH®" on a [web page](https://www.sas.com/en_us/legal/trademarks.html)
-of trademarks it or one of its affiliates owns.[1]
+of trademarks it or one of its affiliates owns [1].
 
 This repository is not affiliated with, endorsed by, or sponsored by SAS
 Institute Inc.
