@@ -13,23 +13,12 @@ This small repository contains the [text contents](ds_sassoftware_statprog_bios_
 of a flashcard deck for reviewing statistical programming in both the R and SAS
 programming languages / statistical environments. The R content is incomplete in the sense
 that I have shared some notes on selected advanced topics only [in another deck](https://github.com/ghrgriner/advanced-R-flashcards) under a different license. This other deck is omitted
-from further discussion here.
+from further discussion here. The deck is also provided in Anki package format (.apkg file)
+with each release.
 
 The R notes cover both base R and 'tidyverse' programming [2], but the graphics
 discussion is pretty limited. The notes on the SAS language cover base SAS,
 macro programming, selected SAS/STAT procedures, and the output delivery system (ODS).
-
-A version of the deck for use in the Anki flashcard program is also shared
-[on AnkiWeb here](https://ankiweb.net/shared/info/742287929). There is a
-24-hour delay on AnkiWeb between the time a deck is submitted for sharing and
-the time it is visible to the public. Therefore, if the above link is
-inaccessible, check back in 24 hours. I intend to only perform updates to the
-deck on that website over the weekend.
-
-The fields are documented at the link on AnkiWeb above or in the wiki of this
-repository. The wiki will often be more up-to-date, as I usually only update
-the AnkiWeb documentation when the deck is changed (because of the downtime
-that causes).
 
 # References
 
