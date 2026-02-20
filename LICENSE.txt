@@ -1,5 +1,5 @@
 --------------------------------------------------
-License for text files
+License for the deck in this repository
 --------------------------------------------------
 THIS DECK refers to both:
 - the file 'ds_sassoftware_statprog_bios_comb.txt' in this directory
